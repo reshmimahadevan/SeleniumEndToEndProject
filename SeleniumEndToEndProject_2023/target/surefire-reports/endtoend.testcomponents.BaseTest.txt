@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: endtoend.testcomponents.BaseTest
--------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 s - in endtoend.testcomponents.BaseTest
