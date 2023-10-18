@@ -1,0 +1,8 @@
+endtoend\resources\ExtentReport.class
+endtoend\pageobject\ConfirmationPage.class
+endtoend\pageobject\LandingPage.class
+endtoend\pageobject\OrderPage.class
+endtoend\AbstractComponents\AbstractComponent.class
+endtoend\pageobject\ProductCatalogue.class
+endtoend\pageobject\CheckOutPage.class
+endtoend\pageobject\CartPage.class
